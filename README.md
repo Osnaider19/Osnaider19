@@ -2,7 +2,6 @@
 Hello, 👋 I'm Osnaider</h1>
 <h3 align="center">Front-End Developers</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osnaider19" alt="osnaider19" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +25,8 @@ Hello, 👋 I'm Osnaider</h1>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./icons/material-ui.svg" alt="tailwind" width="40" height="40"/> </a>
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osnaider19&show_icons=true&locale=en" alt="osnaider19" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osnaider19&show_icons=true&theme=tokyonight)
 
-<div width="40px" height="40px"></div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osnaider19&" alt="osnaider19" /></p>
+
+
 
